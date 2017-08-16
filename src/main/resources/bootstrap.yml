@@ -1,0 +1,5 @@
+# .yml bootstrap file
+---
+spring:
+  application:
+    name: cloud-client-eureka-one
